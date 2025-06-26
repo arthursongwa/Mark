@@ -4,7 +4,7 @@ Mark est un éditeur de texte moderne et intuitif développé en Python avec PyQ
 
 ---
 
-![ui/bg.png](ui/bg.png)
+![](ui/bg.png)
 
 ---
 
