@@ -1,0 +1,170 @@
+2025-06-23 01:38:09,041 - INFO - Initialisation de la fenetre principale
+2025-06-23 01:38:09,045 - DEBUG - Configuration fenetre principale appliquee
+2025-06-23 01:38:09,046 - INFO - Initialisation de la barre de titre
+2025-06-23 01:38:10,157 - DEBUG - Barre de titre creee
+2025-06-23 01:38:10,158 - INFO - Creation du Tool avec 2 colonnes
+2025-06-23 01:38:10,159 - INFO - Ajout du bouton 'Nouveau.'
+2025-06-23 01:38:10,160 - DEBUG - Ajout tooltip a 'Nouveau.': Creer un nouveau fichier
+2025-06-23 01:38:10,161 - DEBUG - Connexion de la fonction au bouton 'Nouveau.'
+2025-06-23 01:38:10,162 - DEBUG - Bouton 'Nouveau.' ajoute en position (0, 0)
+2025-06-23 01:38:10,172 - INFO - Ajout du bouton 'Ouvrir.'
+2025-06-23 01:38:10,172 - DEBUG - Ajout tooltip a 'Ouvrir.': Ouvrir un fichier .md
+2025-06-23 01:38:10,174 - DEBUG - Connexion de la fonction au bouton 'Ouvrir.'
+2025-06-23 01:38:10,175 - DEBUG - Bouton 'Ouvrir.' ajoute en position (0, 1)
+2025-06-23 01:38:10,175 - INFO - Ajout du bouton 'Sauvegarder.'
+2025-06-23 01:38:10,178 - DEBUG - Ajout tooltip a 'Sauvegarder.': Sauvegarder le fichier
+2025-06-23 01:38:10,179 - DEBUG - Connexion de la fonction au bouton 'Sauvegarder.'
+2025-06-23 01:38:10,180 - DEBUG - Bouton 'Sauvegarder.' ajoute en position (1, 0)
+2025-06-23 01:38:10,189 - INFO - Ajout du bouton 'Informations.'
+2025-06-23 01:38:10,190 - DEBUG - Ajout tooltip a 'Informations.': Afficher les informations du document
+2025-06-23 01:38:10,191 - DEBUG - Connexion de la fonction au bouton 'Informations.'
+2025-06-23 01:38:10,193 - DEBUG - Bouton 'Informations.' ajoute en position (1, 1)
+2025-06-23 01:38:10,197 - DEBUG - Tool1 (fichier) initialise
+2025-06-23 01:38:10,205 - INFO - Creation du Tool avec 2 colonnes
+2025-06-23 01:38:10,207 - INFO - Ajout du bouton 'G.'
+2025-06-23 01:38:10,208 - DEBUG - Ajout tooltip a 'G.': Gras
+2025-06-23 01:38:10,209 - DEBUG - Connexion de la fonction au bouton 'G.'
+2025-06-23 01:38:10,210 - DEBUG - Bouton 'G.' ajoute en position (0, 0)
+2025-06-23 01:38:10,210 - INFO - Ajout du bouton 'I.'
+2025-06-23 01:38:10,211 - DEBUG - Ajout tooltip a 'I.': Italique
+2025-06-23 01:38:10,220 - DEBUG - Connexion de la fonction au bouton 'I.'
+2025-06-23 01:38:10,222 - DEBUG - Bouton 'I.' ajoute en position (0, 1)
+2025-06-23 01:38:10,223 - INFO - Ajout du bouton 'S.'
+2025-06-23 01:38:10,223 - DEBUG - Ajout tooltip a 'S.': Souligne
+2025-06-23 01:38:10,224 - DEBUG - Connexion de la fonction au bouton 'S.'
+2025-06-23 01:38:10,225 - DEBUG - Bouton 'S.' ajoute en position (1, 0)
+2025-06-23 01:38:10,226 - INFO - Ajout du bouton 'ab.'
+2025-06-23 01:38:10,227 - DEBUG - Ajout tooltip a 'ab.': Barre
+2025-06-23 01:38:10,229 - DEBUG - Connexion de la fonction au bouton 'ab.'
+2025-06-23 01:38:10,241 - DEBUG - Bouton 'ab.' ajoute en position (1, 1)
+2025-06-23 01:38:10,242 - DEBUG - Tool2 (styles texte) initialise
+2025-06-23 01:38:10,243 - INFO - Creation du Tool avec 2 colonnes
+2025-06-23 01:38:10,244 - INFO - Ajout du bouton 'Lien.'
+2025-06-23 01:38:10,245 - DEBUG - Ajout icone a 'Lien.': ui/icons/add_link.png
+2025-06-23 01:38:10,246 - DEBUG - Ajout tooltip a 'Lien.': Inserer un lien
+2025-06-23 01:38:10,254 - DEBUG - Connexion de la fonction au bouton 'Lien.'
+2025-06-23 01:38:10,256 - DEBUG - Bouton 'Lien.' ajoute en position (0, 0)
+2025-06-23 01:38:10,257 - INFO - Ajout du bouton 'Tableau.'
+2025-06-23 01:38:10,257 - DEBUG - Ajout icone a 'Tableau.': ui/icons/table.png
+2025-06-23 01:38:10,258 - DEBUG - Ajout tooltip a 'Tableau.': Inserer un tableau
+2025-06-23 01:38:10,259 - DEBUG - Connexion de la fonction au bouton 'Tableau.'
+2025-06-23 01:38:10,260 - DEBUG - Bouton 'Tableau.' ajoute en position (0, 1)
+2025-06-23 01:38:10,260 - INFO - Ajout du bouton 'Image.'
+2025-06-23 01:38:10,261 - DEBUG - Ajout icone a 'Image.': ui/icons/add_photo.png
+2025-06-23 01:38:10,263 - DEBUG - Ajout tooltip a 'Image.': Inserer une image
+2025-06-23 01:38:10,264 - DEBUG - Connexion de la fonction au bouton 'Image.'
+2025-06-23 01:38:10,270 - DEBUG - Bouton 'Image.' ajoute en position (1, 0)
+2025-06-23 01:38:10,271 - DEBUG - Tool3 (insertion) initialise
+2025-06-23 01:38:10,272 - INFO - Creation du Tool avec 2 colonnes
+2025-06-23 01:38:10,273 - INFO - Ajout du bouton ''
+2025-06-23 01:38:10,273 - DEBUG - Ajout icone a '': ui/icons/align_left.png
+2025-06-23 01:38:10,276 - DEBUG - Ajout tooltip a '': Aligner a gauche
+2025-06-23 01:38:10,277 - DEBUG - Connexion de la fonction au bouton ''
+2025-06-23 01:38:10,278 - DEBUG - Bouton '' ajoute en position (0, 0)
+2025-06-23 01:38:10,278 - INFO - Ajout du bouton ''
+2025-06-23 01:38:10,279 - DEBUG - Ajout icone a '': ui/icons/align_center.png
+2025-06-23 01:38:10,280 - DEBUG - Ajout tooltip a '': Centrer le texte
+2025-06-23 01:38:10,285 - DEBUG - Connexion de la fonction au bouton ''
+2025-06-23 01:38:10,289 - DEBUG - Bouton '' ajoute en position (0, 1)
+2025-06-23 01:38:10,289 - INFO - Ajout du bouton ''
+2025-06-23 01:38:10,290 - DEBUG - Ajout icone a '': ui/icons/align_right.png
+2025-06-23 01:38:10,291 - DEBUG - Ajout tooltip a '': Aligner a droite
+2025-06-23 01:38:10,292 - DEBUG - Connexion de la fonction au bouton ''
+2025-06-23 01:38:10,292 - DEBUG - Bouton '' ajoute en position (1, 0)
+2025-06-23 01:38:10,293 - INFO - Ajout du bouton ''
+2025-06-23 01:38:10,293 - DEBUG - Ajout icone a '': ui/icons/align_justify.png
+2025-06-23 01:38:10,295 - DEBUG - Ajout tooltip a '': Justifier le texte
+2025-06-23 01:38:10,296 - DEBUG - Connexion de la fonction au bouton ''
+2025-06-23 01:38:10,296 - DEBUG - Bouton '' ajoute en position (1, 1)
+2025-06-23 01:38:10,297 - DEBUG - Tool4 (alignement) initialise
+2025-06-23 01:38:10,305 - INFO - Creation du Tool avec 2 colonnes
+2025-06-23 01:38:10,306 - INFO - Ajout du bouton ''
+2025-06-23 01:38:10,306 - DEBUG - Ajout icone a '': ui/icons/indent_decrease.png
+2025-06-23 01:38:10,307 - DEBUG - Ajout tooltip a '': Diminuer le retrait
+2025-06-23 01:38:10,308 - DEBUG - Connexion de la fonction au bouton ''
+2025-06-23 01:38:10,309 - DEBUG - Bouton '' ajoute en position (0, 0)
+2025-06-23 01:38:10,309 - INFO - Ajout du bouton ''
+2025-06-23 01:38:10,310 - DEBUG - Ajout icone a '': ui/icons/indent_increase.png
+2025-06-23 01:38:10,312 - DEBUG - Ajout tooltip a '': Augmenter le retrait
+2025-06-23 01:38:10,312 - DEBUG - Connexion de la fonction au bouton ''
+2025-06-23 01:38:10,313 - DEBUG - Bouton '' ajoute en position (0, 1)
+2025-06-23 01:38:10,321 - INFO - Ajout du bouton ''
+2025-06-23 01:38:10,322 - DEBUG - Ajout icone a '': ui/icons/list_numbered.png
+2025-06-23 01:38:10,323 - DEBUG - Ajout tooltip a '': Creer une liste numerotee
+2025-06-23 01:38:10,324 - DEBUG - Connexion de la fonction au bouton ''
+2025-06-23 01:38:10,325 - DEBUG - Bouton '' ajoute en position (1, 0)
+2025-06-23 01:38:10,325 - INFO - Ajout du bouton ''
+2025-06-23 01:38:10,326 - DEBUG - Ajout icone a '': ui/icons/list_bulleted.png
+2025-06-23 01:38:10,328 - DEBUG - Ajout tooltip a '': Creer une liste a puces
+2025-06-23 01:38:10,328 - DEBUG - Connexion de la fonction au bouton ''
+2025-06-23 01:38:10,329 - DEBUG - Bouton '' ajoute en position (1, 1)
+2025-06-23 01:38:10,329 - DEBUG - Tool5 (listes et retraits) initialise
+2025-06-23 01:38:10,330 - INFO - Creation du Tool avec 2 colonnes
+2025-06-23 01:38:10,337 - INFO - Ajout du bouton '.'
+2025-06-23 01:38:10,338 - DEBUG - Ajout icone a '.': ui/icons/paste.png
+2025-06-23 01:38:10,340 - DEBUG - Ajout tooltip a '.': Coller
+2025-06-23 01:38:10,340 - DEBUG - Connexion de la fonction au bouton '.'
+2025-06-23 01:38:10,341 - DEBUG - Bouton '.' ajoute en position (0, 0)
+2025-06-23 01:38:10,342 - INFO - Ajout du bouton '.'
+2025-06-23 01:38:10,343 - DEBUG - Ajout icone a '.': ui/icons/cut.png
+2025-06-23 01:38:10,344 - DEBUG - Ajout tooltip a '.': Couper
+2025-06-23 01:38:10,345 - DEBUG - Connexion de la fonction au bouton '.'
+2025-06-23 01:38:10,346 - DEBUG - Bouton '.' ajoute en position (0, 1)
+2025-06-23 01:38:10,346 - INFO - Ajout du bouton '.'
+2025-06-23 01:38:10,355 - DEBUG - Ajout icone a '.': ui/icons/copy.png
+2025-06-23 01:38:10,357 - DEBUG - Ajout tooltip a '.': Copier
+2025-06-23 01:38:10,358 - DEBUG - Connexion de la fonction au bouton '.'
+2025-06-23 01:38:10,359 - DEBUG - Bouton '.' ajoute en position (1, 0)
+2025-06-23 01:38:10,359 - INFO - Ajout du bouton ''
+2025-06-23 01:38:10,360 - DEBUG - Ajout icone a '': ui/icons/paint.png
+2025-06-23 01:38:10,363 - DEBUG - Ajout tooltip a '': Appliquer le style (pinceau)
+2025-06-23 01:38:10,374 - DEBUG - Connexion de la fonction au bouton ''
+2025-06-23 01:38:10,377 - DEBUG - Bouton '' ajoute en position (1, 1)
+2025-06-23 01:38:10,377 - DEBUG - Tool6 (edition) initialise
+2025-06-23 01:38:10,378 - INFO - Creation du Tool avec 2 colonnes
+2025-06-23 01:38:10,380 - INFO - Ajout du bouton 'H1.'
+2025-06-23 01:38:10,387 - DEBUG - Ajout tooltip a 'H1.': Titre 1
+2025-06-23 01:38:10,391 - DEBUG - Connexion de la fonction au bouton 'H1.'
+2025-06-23 01:38:10,395 - DEBUG - Bouton 'H1.' ajoute en position (0, 0)
+2025-06-23 01:38:10,403 - INFO - Ajout du bouton 'H2.'
+2025-06-23 01:38:10,405 - DEBUG - Ajout tooltip a 'H2.': Titre 2
+2025-06-23 01:38:10,407 - DEBUG - Connexion de la fonction au bouton 'H2.'
+2025-06-23 01:38:10,410 - DEBUG - Bouton 'H2.' ajoute en position (0, 1)
+2025-06-23 01:38:10,411 - INFO - Ajout du bouton 'H3.'
+2025-06-23 01:38:10,413 - DEBUG - Ajout tooltip a 'H3.': Titre 3
+2025-06-23 01:38:10,413 - DEBUG - Connexion de la fonction au bouton 'H3.'
+2025-06-23 01:38:10,422 - DEBUG - Bouton 'H3.' ajoute en position (1, 0)
+2025-06-23 01:38:10,423 - INFO - Ajout du bouton 'H4.'
+2025-06-23 01:38:10,424 - DEBUG - Ajout tooltip a 'H4.': Titre 4
+2025-06-23 01:38:10,424 - DEBUG - Connexion de la fonction au bouton 'H4.'
+2025-06-23 01:38:10,425 - DEBUG - Bouton 'H4.' ajoute en position (1, 1)
+2025-06-23 01:38:10,425 - DEBUG - Tool7 (titres) initialise
+2025-06-23 01:38:10,426 - INFO - Creation du Tool avec 2 colonnes
+2025-06-23 01:38:10,427 - INFO - Ajout du bouton '.'
+2025-06-23 01:38:10,428 - DEBUG - Ajout icone a '.': ui/icons/note_add.png
+2025-06-23 01:38:10,429 - DEBUG - Ajout tooltip a '.': Ajouter une note
+2025-06-23 01:38:10,430 - DEBUG - Connexion de la fonction au bouton '.'
+2025-06-23 01:38:10,441 - DEBUG - Bouton '.' ajoute en position (0, 0)
+2025-06-23 01:38:10,442 - INFO - Ajout du bouton ''
+2025-06-23 01:38:10,443 - DEBUG - Ajout icone a '': ui/icons/checklist.png
+2025-06-23 01:38:10,444 - DEBUG - Ajout tooltip a '': Ajouter une checklist
+2025-06-23 01:38:10,445 - DEBUG - Connexion de la fonction au bouton ''
+2025-06-23 01:38:10,446 - DEBUG - Bouton '' ajoute en position (0, 1)
+2025-06-23 01:38:10,447 - INFO - Ajout du bouton '.'
+2025-06-23 01:38:10,455 - DEBUG - Ajout icone a '.': ui/icons/flip.png
+2025-06-23 01:38:10,456 - DEBUG - Ajout tooltip a '.': Ajouter une ligne de separateur
+2025-06-23 01:38:10,457 - DEBUG - Connexion de la fonction au bouton '.'
+2025-06-23 01:38:10,458 - DEBUG - Bouton '.' ajoute en position (1, 0)
+2025-06-23 01:38:10,459 - INFO - Ajout du bouton '.'
+2025-06-23 01:38:10,460 - DEBUG - Ajout icone a '.': ui/icons/add_reaction.png
+2025-06-23 01:38:10,462 - DEBUG - Ajout tooltip a '.': Ajouter un emoji
+2025-06-23 01:38:10,462 - DEBUG - Connexion de la fonction au bouton '.'
+2025-06-23 01:38:10,463 - DEBUG - Bouton '.' ajoute en position (1, 1)
+2025-06-23 01:38:10,470 - DEBUG - Tool8 (ajout de contenu : note, checklist, section, emoji) initialise
+2025-06-23 01:38:10,493 - DEBUG - Header configure et widgets ajoutes
+2025-06-23 01:38:10,510 - DEBUG - editeur de texte initialise
+2025-06-23 01:38:10,513 - DEBUG - Container central configure
+2025-06-23 01:38:10,523 - DEBUG - Footer configure
+2025-06-23 01:38:10,543 - INFO - Initialisation complete de la fenetre principale terminee
+2025-06-23 01:38:15,415 - DEBUG - Insertion de lien annulee par l'utilisateur
+2025-06-23 01:38:16,326 - DEBUG - Application fermee
