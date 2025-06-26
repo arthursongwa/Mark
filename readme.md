@@ -4,7 +4,7 @@ Mark est un éditeur de texte moderne et intuitif développé en Python avec PyQ
 
 ---
 
-![](ui/bg.PNG)
+![](ui/ui.PNG)
 
 ---
 
@@ -43,6 +43,10 @@ Mark est un éditeur de texte moderne et intuitif développé en Python avec PyQ
 ---
 
 ## 🎨 Interface
+
+![](ui/bg.PNG)
+
+---
 - Interface sombre moderne (Dark mode)
 - Icônes visuelles pour chaque fonction
 - Boutons avec effet hover
